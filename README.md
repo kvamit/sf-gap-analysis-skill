@@ -102,8 +102,8 @@ A single HTML file that:
 
 - **Richer issues table** — paste the raw issue list as bullets
 - **Architecture diagram** — describe components and arrows in plain English
-- **Code before/after** — paste actual Apex/SAQL/recipe code with "show before and after"
 - **Sub-tabs within a tab** — e.g. "Tab 1 has sub-tabs: Apex Batch Chain, Flows, CRMA Recipes"
 - **Executive summary** — add a Tab 0 with an SVG problem map and a 3-bullet impact summary
 - **Long content** — generate one tab at a time, then ask to assemble
+- **Markdown format** — convert your documents to .md file to save on token size
 # sf-gap-analysis-skill
