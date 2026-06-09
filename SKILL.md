@@ -144,7 +144,7 @@ Do NOT generate the HTML until the user explicitly confirms. When they do, re-re
 
 ## Phase 3 — Report: Generate Offline-Safe HTML
 
-Once the gap table and design are confirmed, generate the HTML report using the design system below.
+Once the gap table and design are confirmed, generate the HTML report using the design system below. Generate one tab at at time and stop for approval. 
 
 ### HTML Design System (mandatory — do not deviate)
 
